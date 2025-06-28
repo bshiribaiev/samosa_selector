@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.samosa {
+  height: 15em;
+  padding: 1.5em;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.samosa:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.container {
+  margin-top: 50px;
+  display: flex
+}
+
+.upgrade {
+  border: 1 px solid rgba(153, 153, 153, 0.497);
+  padding: 20px 10px;
+  margin-right: 25px;
+  width: 200px;
+  line-height: 0.5;
+}
+
+button{
+  border-radius: 8px;
+  color: white;
+}
