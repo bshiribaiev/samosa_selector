@@ -1,4 +1,3 @@
 # Samosa Selector Game
 
-Built using React
-
+Try it - https://bshiribaiev.github.io/samosa_selector/
